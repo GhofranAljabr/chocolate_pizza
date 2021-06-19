@@ -1,0 +1,241 @@
+/* body {
+  width: 70%;
+  font-family: "IBM Plex Serif", serif;
+  margin: 0 auto;
+}
+h4,
+h5 {
+  margin: 0pc;
+}
+h4 {
+  line-height: 0.5cm;
+  font-family: cursive, cursive;
+
+  font-size: 2.5vw;
+  font-weight: 200;
+  margin-left: 1.2em;
+  position: absolute;
+}
+
+h5 {
+  line-height: 0.1cm;
+  color: rgb(175, 172, 172);
+  font-family: "Pathway Gothic One", sans-serif;
+  font-size: x-small;
+  letter-spacing: 0.2em;
+  margin-left: 5.5em;
+  margin-top: 4.5em;
+  position: absolute;
+}
+
+.logoImage {
+  height: 3em;
+  position: absolute;
+  margin-top: 5px;
+}
+header div {
+  display: inline;
+  margin-top: 0cm;
+}
+header ul li {
+  display: inline-block;
+  float: right;
+  margin-top: 0.1cm;
+  margin-right: 0.01cm;
+  margin-top: 0.3ch;
+}
+li {
+  list-style: none;
+}
+hr {
+  height: 10px;
+  background: url(https://github.com/waleedafifi90/amman-201d28/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true)
+    repeat-x 0 0;
+  border: 0;
+  transform: rotate(500dec);
+}
+h2 {
+  margin: 2pc;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  line-height: 0.5cm;
+}
+
+h2 {
+  line-height: 0.1cm;
+}
+main div img {
+  width: 100%;
+}
+
+p {
+  text-indent: 30px;
+  margin-top: 30px;
+}
+
+footer img {
+  align-items: center;
+  display: block;
+}
+#checkbox {
+  background: url("https://github.com/waleedafifi90/amman-201d28/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+  width: 100%;
+  height: 300px;
+  margin-top: 1cm;
+}
+.left {
+  width: 45%;
+  float: left;
+  font-size: 25px;
+  margin-top: 20px;
+  font-family: "Dancing Script", cursive;
+}
+.right {
+  width: 50%;
+  float: right;
+  font-size: 25px;
+  margin-top: 20px;
+  font-family: "Dancing Script", cursive;
+}
+.ya {
+  margin-bottom: 5em;
+}
+h3,
+/* # least {
+  color: gray;
+  font-family: "Crimson Text", serif;
+  line-height: 1.5em;
+  margin-top: 5em;
+  text-align: center;
+} */
+*/ body {
+  width: 70%;
+  font-family: "IBM Plex Serif", serif;
+  margin: 0 auto;
+}
+
+h4,
+h5 {
+  margin: 0pc;
+  margin-top: 3pc;
+}
+h4 {
+  line-height: 0.5cm;
+  font-family: "Yellowtail", cursive;
+}
+
+h5 {
+  line-height: 0.1cm;
+}
+
+header div {
+  display: inline;
+  margin-top: 0cm;
+}
+
+#checkbox {
+  background: url("https://github.com/waleedafifi90/amman-201d28/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
+  width: 100%;
+  height: 300px;
+}
+
+header ul li {
+  display: inline-block;
+  float: right;
+  margin-left: 0.1cm;
+  margin-right: 0.01cm;
+}
+li {
+  list-style: none;
+}
+.left {
+  width: 45%;
+  float: left;
+  font-size: 25px;
+  margin-top: 20px;
+}
+.right {
+  width: 50%;
+  float: right;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+hr {
+  height: 10px;
+  background: url(https://github.com/waleedafifi90/amman-201d28/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true)
+    repeat-x 0 0;
+  border: 0;
+  transform: rotate(500dec);
+}
+
+/* h1{
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      line-height: cm;
+    } */
+/* h1,
+  h2 {
+    margin: 0pc;
+  }
+  h1 {
+    font-family: "Dancing Script", cursive;
+    line-height: 0.5cm;
+  }
+  
+  h2 {
+    line-height: 0.1cm;
+  } */
+
+main div img {
+  width: 100%;
+}
+
+p {
+  text-indent: 30px;
+  margin-top: 30px;
+}
+
+footer img {
+  align-items: center;
+  display: block;
+}
+
+footer img:first-child {
+  display: inline-block;
+}
+footer p {
+  color: gray;
+  margin: 0;
+}
+/* footer{
+        center
+    } */
+
+button {
+  padding: 20px;
+  background-color: rgb(194, 66, 66);
+  color: white;
+  outline: none;
+}
+
+h1 {
+  font-family: "Francois One", sans-serif;
+  font-size: 30px;
+  margin-top: 1em;
+}
+/* 
+    :first-child {
+      display: inline-block;
+      color: gray;
+      font-family: "Crimson Text", serif;
+      line-height: 1.5em;
+      margin-top: 5em;
+      text-align: center;
+    } */
+
+main nav {
+  float: right;
+  margin: 0%;
+  display: inline-block;
+}
